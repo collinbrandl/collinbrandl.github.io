@@ -1,8 +1,8 @@
 ---
 layout: page
 title: The Eastern North American Margin
-description: magmatic segmentation at a rifted margin
-img: assets/img/projects/JGR2023_1.png
+description: Connections between rift and ridge segmentation
+img: assets/img/projects/ENAM-CSE/Fig1.png
 importance: 1
 category: work
 related_publications: true
