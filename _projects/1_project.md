@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: The Eastern North American Margin
+description: magmatic segmentation at a rifted margin
+img: assets/img/projects/JGR2023_1.png
 importance: 1
 category: work
 related_publications: true
