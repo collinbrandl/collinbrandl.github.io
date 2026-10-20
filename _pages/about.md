@@ -10,7 +10,8 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Postdoctoral Research Scientist</p>
-    <p>Lamont-Doherty Earth Observatory, Columbia University</p>
+    <p>Lamont-Doherty Earth Observatory</p>
+    <p>Columbia University</p>
     <p>-73.905477,41.004061</p>
     
 
@@ -23,7 +24,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: falase
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
