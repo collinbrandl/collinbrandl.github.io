@@ -2,7 +2,7 @@
 layout: page
 title: The Eastern North American Margin
 description: Connections between rift and ridge segmentation
-img: assets/img/projects/ENAM-CSE/Fig1.png
+img: assets/img/project_preview/ENAMCSE_Map.png
 importance: 1
 category: work
 related_publications: true
