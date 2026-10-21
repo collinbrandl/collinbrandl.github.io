@@ -2,7 +2,7 @@
 layout: page
 title: The Queen Charlotte Plate Boundary
 description: Subduction Initiation, Bottom-Simulating Reflectors
-img: assets/img/project_preview/QCPB_Map.png
+img: assets/img/projects/QCPB_Map.png
 importance: 3
 category: work
 ---
