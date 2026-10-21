@@ -2,7 +2,7 @@
 layout: page
 title: The Blake Plateau
 description: The process of building a wide rifted margin segment
-img: assets/img/projects/Figure01.jpg
+img: assets/img/projects/Figure_01.jpg
 importance: 2
 category: work
 giscus_comments: true
