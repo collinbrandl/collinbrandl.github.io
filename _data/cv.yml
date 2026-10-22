@@ -53,6 +53,8 @@ cv:
         end_date: 2024
 
     Publications:
+      - title: '<span style="text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color);">Published</span>'
+
       - title: "Subsurface thermal gradients along the Queen Charlotte plate boundary from a regional mapping of bottom simulating reflectors"
         publisher: Geosphere
         releaseDate: 2026
@@ -83,6 +85,8 @@ cv:
         url: https://doi.org/10.1029/2023JB026459
         summary: "**Brandl, C. C.**, L. L. Worthington, M. B. Magnani, D. J. Shillington, T. J. Luckie<br>[Editor’s Highlight in Eos](https://eos.org/editor-highlights/rift-to-ridge-mid-atlantic-ridge-segments-imprinted-during-rifting)"
 
+      - title: '<span style="text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color);">In Review</span>'
+
       - title: "Formation of the Blake Plateau from voluminous magmatism during the opening of the central Atlantic"
         publisher: In review at Earth and Planetary Science Letters
         summary: "**Brandl, C. C.**, A. Bécel, H. Van Avendonk, N. Bangs, E. Parker"
@@ -90,6 +94,8 @@ cv:
       - title: "New constraints on Pleistocene mass flux across the Northern Cordillera from integrated seismic mapping of deep-sea sediment archives"
         publisher: In review at Geology
         summary: "Rysanek, S., L. L. Worthington, M. A. L. Walton, S. Gulick, **C. C. Brandl**, O. A. Adedeji, E. C. Roland"
+
+      - title: '<span style="text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color);">In Prep</span>'
 
       - title: "Investigating the disappearance of the East Coast Magnetic Anomaly over the Blake Plateau with geopotential modeling"
         publisher: To be submitted to Geophysical Journal International
@@ -116,7 +122,7 @@ cv:
         summary: "Rysanek, S., L. L. Worthington, M. A. L. Walton, **C. C. Brandl**, O. A. Adedeji, S. Gulick, E. C. Roland, M. R. Nedimović"
 
     Research Proposals and Grants:
-      - bullet: "**National Science Foundation, Marine Geology and Geophysics Full Proposal** *(to be resubmitted)*<br>“Collaborative Research: Reconstructing the development of forearc slivers during subduction initiation at pre-existing transform plate boundaries”<br>Award request: $282,456. Lead PI: Collin Brandl; Co-PIs: Anne Bécel, Paul Betka.<br>Investigating the formation of forearc slivers with iterative depth migrations and retro-deformation analysis using existing active source seismic data at the Queen Charlotte and Puysegur plate boundaries."
+      - bullet: "**National Science Foundation, Marine Geology and Geophysics Full Proposal** *(to be resubmitted)*<br>“Collaborative Research: Reconstructing the development of forearc slivers during subduction initiation at pre-existing transform plate boundaries”<br>Award request: $282,456. Lead PI: Collin Brandl; Co-PIs: Anne Bécel, Paul Betka.<br>– Investigating the formation of forearc slivers with iterative depth migrations and retro-deformation analysis using existing active source seismic data at the Queen Charlotte and Puysegur plate boundaries."
       - bullet: "**International Ocean Discovery Program – U.S. Science Support Program** *(funded)*<br>“Apply-To-Sail: IODP Expedition 385T, Panama Basin Crustal Architecture and Deep Biosphere: Revisiting Holes 504B and 896A”. Approximate award: $5,000."
 
     Lectures and Seminars:
